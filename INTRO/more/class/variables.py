@@ -11,5 +11,10 @@ print(x)
 # 2. must start with a letter or an undersore character
 # 3. can only contain alpha numeric characters and underscore
 
-_3name = "samuel"
+_1name = "emmanuel"
+second_name = "sam"
+Last = "muthama"
 
+full_names = _1name + second_name + Last
+
+print(full_names)
